@@ -1,0 +1,10 @@
+C:\Users\LABAdmin\source\repos\Alarmy_22110190\Alarmy_22110190\obj\Debug\Alarmy_22110190.csproj.AssemblyReference.cache
+C:\Users\LABAdmin\source\repos\Alarmy_22110190\Alarmy_22110190\obj\Debug\AlarmClockApp.Form1.resources
+C:\Users\LABAdmin\source\repos\Alarmy_22110190\Alarmy_22110190\obj\Debug\Alarmy_22110190.Properties.Resources.resources
+C:\Users\LABAdmin\source\repos\Alarmy_22110190\Alarmy_22110190\obj\Debug\Alarmy_22110190.csproj.GenerateResource.cache
+C:\Users\LABAdmin\source\repos\Alarmy_22110190\Alarmy_22110190\obj\Debug\Alarmy_22110190.csproj.CoreCompileInputs.cache
+C:\Users\LABAdmin\source\repos\Alarmy_22110190\Alarmy_22110190\bin\Debug\Alarmy_22110190.exe.config
+C:\Users\LABAdmin\source\repos\Alarmy_22110190\Alarmy_22110190\bin\Debug\Alarmy_22110190.exe
+C:\Users\LABAdmin\source\repos\Alarmy_22110190\Alarmy_22110190\bin\Debug\Alarmy_22110190.pdb
+C:\Users\LABAdmin\source\repos\Alarmy_22110190\Alarmy_22110190\obj\Debug\Alarmy_22110190.exe
+C:\Users\LABAdmin\source\repos\Alarmy_22110190\Alarmy_22110190\obj\Debug\Alarmy_22110190.pdb
